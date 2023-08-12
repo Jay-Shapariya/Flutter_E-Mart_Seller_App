@@ -28,7 +28,7 @@ The Seller Dashboard includes the following features:
 
 ## Link
 
-[Link](https://github.com/Jay-Shapariya/Flutter_E-Commerce_APP)
+[E-Commerce App Link](https://github.com/Jay-Shapariya/Flutter_E-Commerce_APP)
 
 ## Dependencies
 
